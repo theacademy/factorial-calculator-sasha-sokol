@@ -19,7 +19,7 @@ public class Factorial {
 	 
 	 public int isInputNumberValid()  {
 		 
-		/*
+		/* FINAL
 		- Update this method to accept a number from the user and store the value in an instance variable `num`. 
 			- Use an instance variable `scanner` to accept the input from the user.
 		
